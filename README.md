@@ -142,3 +142,42 @@ The reduced feature vector $\mathbf{z}$ is used as input to the Gaussian Process
 - Alloy predictions are heuristic and illustrative only.
 
 This framework is intended for **educational and exploratory use**.
+
+---
+
+## 4. Installation
+
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+---
+
+## 5. Usage
+
+Step 1: Initialize Data
+The system requires a dataset of crystal structures. Run the loader to fetch data (e.g., from matbench_phonons) and sanitize it into a CSV format:
+  ```bash
+  python load_matminer_data.py
+  ```
+Step 2: Run the Virtual Lab
+Launch the interactive command-line interface:
+  ```bash
+  python main.py
+```
+
+### Workflow Options:
+- Train Model: Fits the Gaussian Process on the loaded data.
+- Virtual Lab (Predict from File): Supply a .cif or POSCAR file. The model predicts the property and estimates uncertainty based on how different your structure is from the training data.
+- Alloy Heuristic: Enter a formula (e.g., Fe70Ni30) and prototype (FCC/BCC). The system generates a randomized supercell to approximate the disordered solid solution
+
+## 7. License
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
