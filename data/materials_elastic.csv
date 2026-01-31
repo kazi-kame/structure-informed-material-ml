@@ -1,0 +1,1436 @@
+formula,cod_id,structure,G_VRH,E,K,cif,poscar
+Fe,9006595,BCC,82.5,200,160,"#------------------------------------------------------------------------------
+#$Date: 2024-05-06 10:39:41 +0300 (Mon, 06 May 2024) $
+#$Revision: 291735 $
+#$URL: svn://crystallography.net/cod/cif/9/00/85/9008536.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008536
+loop_
+_publ_author_name
+'Wyckoff, R. W. G.'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Sample at T = 298 K
+ Body centered cubic, bcc, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Fe
+_chemical_name_common            Iron-alpha
+_chemical_name_mineral           Iron-alpha
+_space_group_IT_number           229
+_symmetry_space_group_name_Hall  '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   2.8665
+_cell_length_b                   2.8665
+_cell_formula_units_Z            2
+_cell_length_c                   2.8665
+_cell_volume                     23.554
+_database_code_amcsd             0011214
+_diffrn_ambient_temperature      298
+_exptl_crystal_density_diffrn    7.875
+_cod_original_sg_symbol_H-M      'I m 3 m'
+_cod_database_code               9008536
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+1/2+x,1/2+y,1/2+z
+z,-x,y
+1/2+z,1/2-x,1/2+y
+-y,z,-x
+1/2-y,1/2+z,1/2-x
+x,-y,z
+1/2+x,1/2-y,1/2+z
+-z,x,-y
+1/2-z,1/2+x,1/2-y
+y,-z,x
+1/2+y,1/2-z,1/2+x
+-x,y,-z
+1/2-x,1/2+y,1/2-z
+x,-z,-y
+1/2+x,1/2-z,1/2-y
+-z,y,x
+1/2-z,1/2+y,1/2+x
+y,-x,-z
+1/2+y,1/2-x,1/2-z
+-x,z,y
+1/2-x,1/2+z,1/2+y
+z,-y,-x
+1/2+z,1/2-y,1/2-x
+-y,x,z
+1/2-y,1/2+x,1/2+z
+x,z,y
+1/2+x,1/2+z,1/2+y
+-z,-y,-x
+1/2-z,1/2-y,1/2-x
+y,x,z
+1/2+y,1/2+x,1/2+z
+-x,-z,-y
+1/2-x,1/2-z,1/2-y
+z,y,x
+1/2+z,1/2+y,1/2+x
+-y,-x,-z
+1/2-y,1/2-x,1/2-z
+z,x,-y
+1/2+z,1/2+x,1/2-y
+-y,-z,x
+1/2-y,1/2-z,1/2+x
+x,y,-z
+1/2+x,1/2+y,1/2-z
+-z,-x,y
+1/2-z,1/2-x,1/2+y
+y,z,-x
+1/2+y,1/2+z,1/2-x
+-x,-y,z
+1/2-x,1/2-y,1/2+z
+-z,x,y
+1/2-z,1/2+x,1/2+y
+y,-z,-x
+1/2+y,1/2-z,1/2-x
+-x,y,z
+1/2-x,1/2+y,1/2+z
+z,-x,-y
+1/2+z,1/2-x,1/2-y
+-y,z,x
+1/2-y,1/2+z,1/2+x
+x,-y,-z
+1/2+x,1/2-y,1/2-z
+-x,z,-y
+1/2-x,1/2+z,1/2-y
+z,-y,x
+1/2+z,1/2-y,1/2+x
+-y,x,-z
+1/2-y,1/2+x,1/2-z
+x,-z,y
+1/2+x,1/2-z,1/2+y
+-z,y,-x
+1/2-z,1/2+y,1/2-x
+y,-x,z
+1/2+y,1/2-x,1/2+z
+-x,-z,y
+1/2-x,1/2-z,1/2+y
+z,y,-x
+1/2+z,1/2+y,1/2-x
+-y,-x,z
+1/2-y,1/2-x,1/2+z
+x,z,-y
+1/2+x,1/2+z,1/2-y
+-z,-y,x
+1/2-z,1/2-y,1/2+x
+y,x,-z
+1/2+y,1/2+x,1/2-z
+-z,-x,-y
+1/2-z,1/2-x,1/2-y
+y,z,x
+1/2+y,1/2+z,1/2+x
+-x,-y,-z
+1/2-x,1/2-y,1/2-z
+z,x,y
+1/2+z,1/2+x,1/2+y
+-y,-z,-x
+1/2-y,1/2-z,1/2-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22368
+2 AMCSD 0011214
+",
+Ni,9008509,FCC,80.0,210,180,"#------------------------------------------------------------------------------
+#$Date: 2024-08-03 10:56:24 +0300 (Sat, 03 Aug 2024) $
+#$Revision: 293656 $
+#$URL: svn://crystallography.net/cod/cif/9/00/85/9008509.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_9008509
+loop_
+_publ_author_name
+'Wyckoff R W G'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Hexagonal closest packed, hcp, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Ni
+_chemical_name_common            Nickel
+_space_group_IT_number           194
+_symmetry_space_group_name_Hall  '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   2.65
+_cell_length_b                   2.65
+_cell_length_c                   4.33
+_cell_formula_units_Z            2
+_cell_volume                     26.334
+_cod_database_code               9008509
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-x+y,1/2+z
+x,x-y,1/2-z
+-x+y,-x,1/2-z
+x-y,x,1/2+z
+-y,-x,z
+y,x,-z
+y,-x+y,-z
+-y,x-y,z
+x-y,-y,1/2+z
+-x+y,y,1/2-z
+x,y,1/2-z
+-x,-y,1/2+z
+x,x-y,z
+-x,-x+y,-z
+x-y,x,-z
+-x+y,-x,z
+y,x,1/2+z
+-y,-x,1/2-z
+-y,x-y,1/2-z
+y,-x+y,1/2+z
+-x+y,y,z
+x-y,-y,-z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni 0.33333 0.66667 0.25000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 910
+2 AMCSD 0011186
+3 AMCSD 0011187
+loop_
+_[local]_alternative_name_id
+_[local]_alternative_name_type
+_[local]_alternative_name_source
+_[local]_alternative_name_source_id
+_[local]_alternative_name_value
+1 mineral AMCSD 0011186 ""Nickel""
+2 mineral AMCSD 0011187 ""Garutiite""
+_database_code_amcsd 0011186
+",
+Al,9008944,FCC,26.0,70,76,"#------------------------------------------------------------------------------
+#$Date: 2024-08-03 10:56:24 +0300 (Sat, 03 Aug 2024) $
+#$Revision: 293656 $
+#$URL: svn://crystallography.net/cod/cif/9/00/84/9008460.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_9008460
+loop_
+_publ_author_name
+'Wyckoff R W G'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Cubic closest packed, ccp, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Al
+_chemical_name_mineral           Aluminum
+_space_group_IT_number           225
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   4.04958
+_cell_length_b                   4.04958
+_cell_length_c                   4.04958
+_cell_formula_units_Z            4
+_cell_volume                     66.409
+_cod_original_sg_symbol_H-M      'F m 3 m'
+_cod_database_code               9008460
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,y,1/2+z
+1/2+x,1/2+y,z
+z,-x,y
+z,1/2-x,1/2+y
+1/2+z,-x,1/2+y
+1/2+z,1/2-x,y
+-y,z,-x
+-y,1/2+z,1/2-x
+1/2-y,z,1/2-x
+1/2-y,1/2+z,-x
+x,-y,z
+x,1/2-y,1/2+z
+1/2+x,-y,1/2+z
+1/2+x,1/2-y,z
+-z,x,-y
+-z,1/2+x,1/2-y
+1/2-z,x,1/2-y
+1/2-z,1/2+x,-y
+y,-z,x
+y,1/2-z,1/2+x
+1/2+y,-z,1/2+x
+1/2+y,1/2-z,x
+-x,y,-z
+-x,1/2+y,1/2-z
+1/2-x,y,1/2-z
+1/2-x,1/2+y,-z
+x,-z,-y
+x,1/2-z,1/2-y
+1/2+x,-z,1/2-y
+1/2+x,1/2-z,-y
+-z,y,x
+-z,1/2+y,1/2+x
+1/2-z,y,1/2+x
+1/2-z,1/2+y,x
+y,-x,-z
+y,1/2-x,1/2-z
+1/2+y,-x,1/2-z
+1/2+y,1/2-x,-z
+-x,z,y
+-x,1/2+z,1/2+y
+1/2-x,z,1/2+y
+1/2-x,1/2+z,y
+z,-y,-x
+z,1/2-y,1/2-x
+1/2+z,-y,1/2-x
+1/2+z,1/2-y,-x
+-y,x,z
+-y,1/2+x,1/2+z
+1/2-y,x,1/2+z
+1/2-y,1/2+x,z
+x,z,y
+x,1/2+z,1/2+y
+1/2+x,z,1/2+y
+1/2+x,1/2+z,y
+-z,-y,-x
+-z,1/2-y,1/2-x
+1/2-z,-y,1/2-x
+1/2-z,1/2-y,-x
+y,x,z
+y,1/2+x,1/2+z
+1/2+y,x,1/2+z
+1/2+y,1/2+x,z
+-x,-z,-y
+-x,1/2-z,1/2-y
+1/2-x,-z,1/2-y
+1/2-x,1/2-z,-y
+z,y,x
+z,1/2+y,1/2+x
+1/2+z,y,1/2+x
+1/2+z,1/2+y,x
+-y,-x,-z
+-y,1/2-x,1/2-z
+1/2-y,-x,1/2-z
+1/2-y,1/2-x,-z
+z,x,-y
+z,1/2+x,1/2-y
+1/2+z,x,1/2-y
+1/2+z,1/2+x,-y
+-y,-z,x
+-y,1/2-z,1/2+x
+1/2-y,-z,1/2+x
+1/2-y,1/2-z,x
+x,y,-z
+x,1/2+y,1/2-z
+1/2+x,y,1/2-z
+1/2+x,1/2+y,-z
+-z,-x,y
+-z,1/2-x,1/2+y
+1/2-z,-x,1/2+y
+1/2-z,1/2-x,y
+y,z,-x
+y,1/2+z,1/2-x
+1/2+y,z,1/2-x
+1/2+y,1/2+z,-x
+-x,-y,z
+-x,1/2-y,1/2+z
+1/2-x,-y,1/2+z
+1/2-x,1/2-y,z
+-z,x,y
+-z,1/2+x,1/2+y
+1/2-z,x,1/2+y
+1/2-z,1/2+x,y
+y,-z,-x
+y,1/2-z,1/2-x
+1/2+y,-z,1/2-x
+1/2+y,1/2-z,-x
+-x,y,z
+-x,1/2+y,1/2+z
+1/2-x,y,1/2+z
+1/2-x,1/2+y,z
+z,-x,-y
+z,1/2-x,1/2-y
+1/2+z,-x,1/2-y
+1/2+z,1/2-x,-y
+-y,z,x
+-y,1/2+z,1/2+x
+1/2-y,z,1/2+x
+1/2-y,1/2+z,x
+x,-y,-z
+x,1/2-y,1/2-z
+1/2+x,-y,1/2-z
+1/2+x,1/2-y,-z
+-x,z,-y
+-x,1/2+z,1/2-y
+1/2-x,z,1/2-y
+1/2-x,1/2+z,-y
+z,-y,x
+z,1/2-y,1/2+x
+1/2+z,-y,1/2+x
+1/2+z,1/2-y,x
+-y,x,-z
+-y,1/2+x,1/2-z
+1/2-y,x,1/2-z
+1/2-y,1/2+x,-z
+x,-z,y
+x,1/2-z,1/2+y
+1/2+x,-z,1/2+y
+1/2+x,1/2-z,y
+-z,y,-x
+-z,1/2+y,1/2-x
+1/2-z,y,1/2-x
+1/2-z,1/2+y,-x
+y,-x,z
+y,1/2-x,1/2+z
+1/2+y,-x,1/2+z
+1/2+y,1/2-x,z
+-x,-z,y
+-x,1/2-z,1/2+y
+1/2-x,-z,1/2+y
+1/2-x,1/2-z,y
+z,y,-x
+z,1/2+y,1/2-x
+1/2+z,y,1/2-x
+1/2+z,1/2+y,-x
+-y,-x,z
+-y,1/2-x,1/2+z
+1/2-y,-x,1/2+z
+1/2-y,1/2-x,z
+x,z,-y
+x,1/2+z,1/2-y
+1/2+x,z,1/2-y
+1/2+x,1/2+z,-y
+-z,-y,x
+-z,1/2-y,1/2+x
+1/2-z,-y,1/2+x
+1/2-z,1/2-y,x
+y,x,-z
+y,1/2+x,1/2-z
+1/2+y,x,1/2-z
+1/2+y,1/2+x,-z
+-z,-x,-y
+-z,1/2-x,1/2-y
+1/2-z,-x,1/2-y
+1/2-z,1/2-x,-y
+y,z,x
+y,1/2+z,1/2+x
+1/2+y,z,1/2+x
+1/2+y,1/2+z,x
+-x,-y,-z
+-x,1/2-y,1/2-z
+1/2-x,-y,1/2-z
+1/2-x,1/2-y,-z
+z,x,y
+z,1/2+x,1/2+y
+1/2+z,x,1/2+y
+1/2+z,1/2+x,y
+-y,-z,-x
+-y,1/2-z,1/2-x
+1/2-y,-z,1/2-x
+1/2-y,1/2-z,-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 4514248
+2 MPOD 1000002
+3 MPOD 1000003
+4 MPOD 1000093
+5 MPOD 1000121
+6 AMCSD 0011136
+7 AMCSD 0011137
+loop_
+_[local]_alternative_name_id
+_[local]_alternative_name_type
+_[local]_alternative_name_source
+_[local]_alternative_name_source_id
+_[local]_alternative_name_value
+1 mineral AMCSD 0011136 ""Aluminum""
+2 mineral AMCSD 0011137 ""Aluminium""
+_database_code_amcsd 0011136
+",
+Cu,9012109,FCC,48.0,130,138,"#------------------------------------------------------------------------------
+#$Date: 2024-05-06 10:39:41 +0300 (Mon, 06 May 2024) $
+#$Revision: 291735 $
+#$URL: svn://crystallography.net/cod/cif/9/00/84/9008468.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008468
+loop_
+_publ_author_name
+'Wyckoff, R. W. G.'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Cubic closest packed, ccp, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Cu
+_chemical_name_mineral           Copper
+_space_group_IT_number           225
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   3.61496
+_cell_length_b                   3.61496
+_cell_length_c                   3.61496
+_cell_volume                     47.240
+_cell_formula_units_Z            4
+_database_code_amcsd             0011145
+_exptl_crystal_density_diffrn    8.935
+_cod_original_sg_symbol_H-M      'F m 3 m'
+_cod_database_code               9008468
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,y,1/2+z
+1/2+x,1/2+y,z
+z,-x,y
+z,1/2-x,1/2+y
+1/2+z,-x,1/2+y
+1/2+z,1/2-x,y
+-y,z,-x
+-y,1/2+z,1/2-x
+1/2-y,z,1/2-x
+1/2-y,1/2+z,-x
+x,-y,z
+x,1/2-y,1/2+z
+1/2+x,-y,1/2+z
+1/2+x,1/2-y,z
+-z,x,-y
+-z,1/2+x,1/2-y
+1/2-z,x,1/2-y
+1/2-z,1/2+x,-y
+y,-z,x
+y,1/2-z,1/2+x
+1/2+y,-z,1/2+x
+1/2+y,1/2-z,x
+-x,y,-z
+-x,1/2+y,1/2-z
+1/2-x,y,1/2-z
+1/2-x,1/2+y,-z
+x,-z,-y
+x,1/2-z,1/2-y
+1/2+x,-z,1/2-y
+1/2+x,1/2-z,-y
+-z,y,x
+-z,1/2+y,1/2+x
+1/2-z,y,1/2+x
+1/2-z,1/2+y,x
+y,-x,-z
+y,1/2-x,1/2-z
+1/2+y,-x,1/2-z
+1/2+y,1/2-x,-z
+-x,z,y
+-x,1/2+z,1/2+y
+1/2-x,z,1/2+y
+1/2-x,1/2+z,y
+z,-y,-x
+z,1/2-y,1/2-x
+1/2+z,-y,1/2-x
+1/2+z,1/2-y,-x
+-y,x,z
+-y,1/2+x,1/2+z
+1/2-y,x,1/2+z
+1/2-y,1/2+x,z
+x,z,y
+x,1/2+z,1/2+y
+1/2+x,z,1/2+y
+1/2+x,1/2+z,y
+-z,-y,-x
+-z,1/2-y,1/2-x
+1/2-z,-y,1/2-x
+1/2-z,1/2-y,-x
+y,x,z
+y,1/2+x,1/2+z
+1/2+y,x,1/2+z
+1/2+y,1/2+x,z
+-x,-z,-y
+-x,1/2-z,1/2-y
+1/2-x,-z,1/2-y
+1/2-x,1/2-z,-y
+z,y,x
+z,1/2+y,1/2+x
+1/2+z,y,1/2+x
+1/2+z,1/2+y,x
+-y,-x,-z
+-y,1/2-x,1/2-z
+1/2-y,-x,1/2-z
+1/2-y,1/2-x,-z
+z,x,-y
+z,1/2+x,1/2-y
+1/2+z,x,1/2-y
+1/2+z,1/2+x,-y
+-y,-z,x
+-y,1/2-z,1/2+x
+1/2-y,-z,1/2+x
+1/2-y,1/2-z,x
+x,y,-z
+x,1/2+y,1/2-z
+1/2+x,y,1/2-z
+1/2+x,1/2+y,-z
+-z,-x,y
+-z,1/2-x,1/2+y
+1/2-z,-x,1/2+y
+1/2-z,1/2-x,y
+y,z,-x
+y,1/2+z,1/2-x
+1/2+y,z,1/2-x
+1/2+y,1/2+z,-x
+-x,-y,z
+-x,1/2-y,1/2+z
+1/2-x,-y,1/2+z
+1/2-x,1/2-y,z
+-z,x,y
+-z,1/2+x,1/2+y
+1/2-z,x,1/2+y
+1/2-z,1/2+x,y
+y,-z,-x
+y,1/2-z,1/2-x
+1/2+y,-z,1/2-x
+1/2+y,1/2-z,-x
+-x,y,z
+-x,1/2+y,1/2+z
+1/2-x,y,1/2+z
+1/2-x,1/2+y,z
+z,-x,-y
+z,1/2-x,1/2-y
+1/2+z,-x,1/2-y
+1/2+z,1/2-x,-y
+-y,z,x
+-y,1/2+z,1/2+x
+1/2-y,z,1/2+x
+1/2-y,1/2+z,x
+x,-y,-z
+x,1/2-y,1/2-z
+1/2+x,-y,1/2-z
+1/2+x,1/2-y,-z
+-x,z,-y
+-x,1/2+z,1/2-y
+1/2-x,z,1/2-y
+1/2-x,1/2+z,-y
+z,-y,x
+z,1/2-y,1/2+x
+1/2+z,-y,1/2+x
+1/2+z,1/2-y,x
+-y,x,-z
+-y,1/2+x,1/2-z
+1/2-y,x,1/2-z
+1/2-y,1/2+x,-z
+x,-z,y
+x,1/2-z,1/2+y
+1/2+x,-z,1/2+y
+1/2+x,1/2-z,y
+-z,y,-x
+-z,1/2+y,1/2-x
+1/2-z,y,1/2-x
+1/2-z,1/2+y,-x
+y,-x,z
+y,1/2-x,1/2+z
+1/2+y,-x,1/2+z
+1/2+y,1/2-x,z
+-x,-z,y
+-x,1/2-z,1/2+y
+1/2-x,-z,1/2+y
+1/2-x,1/2-z,y
+z,y,-x
+z,1/2+y,1/2-x
+1/2+z,y,1/2-x
+1/2+z,1/2+y,-x
+-y,-x,z
+-y,1/2-x,1/2+z
+1/2-y,-x,1/2+z
+1/2-y,1/2-x,z
+x,z,-y
+x,1/2+z,1/2-y
+1/2+x,z,1/2-y
+1/2+x,1/2+z,-y
+-z,-y,x
+-z,1/2-y,1/2+x
+1/2-z,-y,1/2+x
+1/2-z,1/2-y,x
+y,x,-z
+y,1/2+x,1/2-z
+1/2+y,x,1/2-z
+1/2+y,1/2+x,-z
+-z,-x,-y
+-z,1/2-x,1/2-y
+1/2-z,-x,1/2-y
+1/2-z,1/2-x,-y
+y,z,x
+y,1/2+z,1/2+x
+1/2+y,z,1/2+x
+1/2+y,1/2+z,x
+-x,-y,-z
+-x,1/2-y,1/2-z
+1/2-x,-y,1/2-z
+1/2-x,1/2-y,-z
+z,x,y
+z,1/2+x,1/2+y
+1/2+z,x,1/2+y
+1/2+z,1/2+x,y
+-y,-z,-x
+-y,1/2-z,1/2-x
+1/2-y,-z,1/2-x
+1/2-y,1/2-z,-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22414
+2 AMCSD 0011145
+",
+Mo,9008660,BCC,110.0,330,260,"#------------------------------------------------------------------------------
+#$Date: 2021-04-28 14:19:01 +0300 (Wed, 28 Apr 2021) $
+#$Revision: 264647 $
+#$URL: svn://crystallography.net/cod/cif/9/01/16/9011605.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9011605
+loop_
+_publ_author_name
+'Davey, W. P.'
+_publ_section_title
+;
+ Lattice constants of twelve common metals
+ Locality: synthetic
+ Note: lattice parameter is average of runs 1 & 2
+;
+_journal_name_full               'Physical Review'
+_journal_page_first              753
+_journal_page_last               761
+_journal_paper_doi               10.1103/PhysRev.25.753
+_journal_volume                  25
+_journal_year                    1925
+_chemical_formula_sum            Mo
+_chemical_name_common            Molybdenum
+_chemical_name_mineral           Molybdenum
+_space_group_IT_number           229
+_symmetry_space_group_name_Hall  '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   3.142
+_cell_length_b                   3.142
+_cell_length_c                   3.142
+_cell_volume                     31.018
+_exptl_crystal_density_diffrn    10.272
+_cod_depositor_comments
+;
+ Added the _cell_formula_units_Z data item.
+
+ Antanas Vaitkus,
+ 2021-04-23
+
+ Marked entry as being related to AMCSD entry 0015123.
+
+ Antanas Vaitkus,
+ 2021-04-28
+;
+_cod_original_sg_symbol_H-M      'I m 3 m'
+_cod_database_code               9011605
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2+x,1/2+y,1/2+z
+z,-x,y
+1/2+z,1/2-x,1/2+y
+-y,z,-x
+1/2-y,1/2+z,1/2-x
+x,-y,z
+1/2+x,1/2-y,1/2+z
+-z,x,-y
+1/2-z,1/2+x,1/2-y
+y,-z,x
+1/2+y,1/2-z,1/2+x
+-x,y,-z
+1/2-x,1/2+y,1/2-z
+x,-z,-y
+1/2+x,1/2-z,1/2-y
+-z,y,x
+1/2-z,1/2+y,1/2+x
+y,-x,-z
+1/2+y,1/2-x,1/2-z
+-x,z,y
+1/2-x,1/2+z,1/2+y
+z,-y,-x
+1/2+z,1/2-y,1/2-x
+-y,x,z
+1/2-y,1/2+x,1/2+z
+x,z,y
+1/2+x,1/2+z,1/2+y
+-z,-y,-x
+1/2-z,1/2-y,1/2-x
+y,x,z
+1/2+y,1/2+x,1/2+z
+-x,-z,-y
+1/2-x,1/2-z,1/2-y
+z,y,x
+1/2+z,1/2+y,1/2+x
+-y,-x,-z
+1/2-y,1/2-x,1/2-z
+z,x,-y
+1/2+z,1/2+x,1/2-y
+-y,-z,x
+1/2-y,1/2-z,1/2+x
+x,y,-z
+1/2+x,1/2+y,1/2-z
+-z,-x,y
+1/2-z,1/2-x,1/2+y
+y,z,-x
+1/2+y,1/2+z,1/2-x
+-x,-y,z
+1/2-x,1/2-y,1/2+z
+-z,x,y
+1/2-z,1/2+x,1/2+y
+y,-z,-x
+1/2+y,1/2-z,1/2-x
+-x,y,z
+1/2-x,1/2+y,1/2+z
+z,-x,-y
+1/2+z,1/2-x,1/2-y
+-y,z,x
+1/2-y,1/2+z,1/2+x
+x,-y,-z
+1/2+x,1/2-y,1/2-z
+-x,z,-y
+1/2-x,1/2+z,1/2-y
+z,-y,x
+1/2+z,1/2-y,1/2+x
+-y,x,-z
+1/2-y,1/2+x,1/2-z
+x,-z,y
+1/2+x,1/2-z,1/2+y
+-z,y,-x
+1/2-z,1/2+y,1/2-x
+y,-x,z
+1/2+y,1/2-x,1/2+z
+-x,-z,y
+1/2-x,1/2-z,1/2+y
+z,y,-x
+1/2+z,1/2+y,1/2-x
+-y,-x,z
+1/2-y,1/2-x,1/2+z
+x,z,-y
+1/2+x,1/2+z,1/2-y
+-z,-y,x
+1/2-z,1/2-y,1/2+x
+y,x,-z
+1/2+y,1/2+x,1/2-z
+-z,-x,-y
+1/2-z,1/2-x,1/2-y
+y,z,x
+1/2+y,1/2+z,1/2+x
+-x,-y,-z
+1/2-x,1/2-y,1/2-z
+z,x,y
+1/2+z,1/2+x,1/2+y
+-y,-z,-x
+1/2-y,1/2-z,1/2-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0015123
+2 ChemSpider 22374
+",
+W,9010890,BCC,160.0,410,310,"#------------------------------------------------------------------------------
+#$Date: 2024-05-02 13:48:35 +0300 (Thu, 02 May 2024) $
+#$Revision: 291455 $
+#$URL: svn://localhost/cod/cif/9/00/65/9006517.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9006517
+loop_
+_publ_author_name
+'Dubrovinsky, L. S.'
+'Saxena, S. K.'
+_publ_section_title
+;
+ Thermal expansion of periclase (MgO) and tungsten (W)
+ to melting temperatures
+ Sample: T = 2592 K
+;
+_journal_name_full               'Physics and Chemistry of Minerals'
+_journal_page_first              547
+_journal_page_last               550
+_journal_paper_doi               10.1007/s002690050070
+_journal_volume                  24
+_journal_year                    1997
+_chemical_formula_sum            W
+_chemical_name_mineral           Tungsten
+_space_group_IT_number           229
+_symmetry_space_group_name_Hall  '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   3.2087
+_cell_length_b                   3.2087
+_cell_length_c                   3.2087
+_cell_formula_units_Z            2
+_cell_volume                     33.036
+_database_code_amcsd             0008099
+_diffrn_ambient_temperature      2592
+_exptl_crystal_density_diffrn    18.482
+_cod_original_sg_symbol_H-M      'I m 3 m'
+_cod_database_code               9006517
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+1/2+x,1/2+y,1/2+z
+z,-x,y
+1/2+z,1/2-x,1/2+y
+-y,z,-x
+1/2-y,1/2+z,1/2-x
+x,-y,z
+1/2+x,1/2-y,1/2+z
+-z,x,-y
+1/2-z,1/2+x,1/2-y
+y,-z,x
+1/2+y,1/2-z,1/2+x
+-x,y,-z
+1/2-x,1/2+y,1/2-z
+x,-z,-y
+1/2+x,1/2-z,1/2-y
+-z,y,x
+1/2-z,1/2+y,1/2+x
+y,-x,-z
+1/2+y,1/2-x,1/2-z
+-x,z,y
+1/2-x,1/2+z,1/2+y
+z,-y,-x
+1/2+z,1/2-y,1/2-x
+-y,x,z
+1/2-y,1/2+x,1/2+z
+x,z,y
+1/2+x,1/2+z,1/2+y
+-z,-y,-x
+1/2-z,1/2-y,1/2-x
+y,x,z
+1/2+y,1/2+x,1/2+z
+-x,-z,-y
+1/2-x,1/2-z,1/2-y
+z,y,x
+1/2+z,1/2+y,1/2+x
+-y,-x,-z
+1/2-y,1/2-x,1/2-z
+z,x,-y
+1/2+z,1/2+x,1/2-y
+-y,-z,x
+1/2-y,1/2-z,1/2+x
+x,y,-z
+1/2+x,1/2+y,1/2-z
+-z,-x,y
+1/2-z,1/2-x,1/2+y
+y,z,-x
+1/2+y,1/2+z,1/2-x
+-x,-y,z
+1/2-x,1/2-y,1/2+z
+-z,x,y
+1/2-z,1/2+x,1/2+y
+y,-z,-x
+1/2+y,1/2-z,1/2-x
+-x,y,z
+1/2-x,1/2+y,1/2+z
+z,-x,-y
+1/2+z,1/2-x,1/2-y
+-y,z,x
+1/2-y,1/2+z,1/2+x
+x,-y,-z
+1/2+x,1/2-y,1/2-z
+-x,z,-y
+1/2-x,1/2+z,1/2-y
+z,-y,x
+1/2+z,1/2-y,1/2+x
+-y,x,-z
+1/2-y,1/2+x,1/2-z
+x,-z,y
+1/2+x,1/2-z,1/2+y
+-z,y,-x
+1/2-z,1/2+y,1/2-x
+y,-x,z
+1/2+y,1/2-x,1/2+z
+-x,-z,y
+1/2-x,1/2-z,1/2+y
+z,y,-x
+1/2+z,1/2+y,1/2-x
+-y,-x,z
+1/2-y,1/2-x,1/2+z
+x,z,-y
+1/2+x,1/2+z,1/2-y
+-z,-y,x
+1/2-z,1/2-y,1/2+x
+y,x,-z
+1/2+y,1/2+x,1/2-z
+-z,-x,-y
+1/2-z,1/2-x,1/2-y
+y,z,x
+1/2+y,1/2+z,1/2+x
+-x,-y,-z
+1/2-x,1/2-y,1/2-z
+z,x,y
+1/2+z,1/2+x,1/2+y
+-y,-z,-x
+1/2-y,1/2-z,1/2-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+W 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22403
+2 AMCSD 0008099",
+Cr,9008430,BCC,115.0,280,160,"#------------------------------------------------------------------------------
+#$Date: 2024-05-06 10:39:41 +0300 (Mon, 06 May 2024) $
+#$Revision: 291735 $
+#$URL: svn://crystallography.net/cod/cif/9/00/84/9008467.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008467
+loop_
+_publ_author_name
+'Wyckoff, R. W. G.'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Cubic closest packed, ccp, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Cr
+_chemical_name_mineral           Chromium
+_space_group_IT_number           225
+_symmetry_space_group_name_Hall  '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_length_a                   3.68
+_cell_length_b                   3.68
+_cell_length_c                   3.68
+_cell_volume                     49.836
+_cell_formula_units_Z            4
+_database_code_amcsd             0011144
+_exptl_crystal_density_diffrn    6.930
+_cod_original_sg_symbol_H-M      'F m 3 m'
+_cod_database_code               9008467
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+x,1/2+y,1/2+z
+1/2+x,y,1/2+z
+1/2+x,1/2+y,z
+z,-x,y
+z,1/2-x,1/2+y
+1/2+z,-x,1/2+y
+1/2+z,1/2-x,y
+-y,z,-x
+-y,1/2+z,1/2-x
+1/2-y,z,1/2-x
+1/2-y,1/2+z,-x
+x,-y,z
+x,1/2-y,1/2+z
+1/2+x,-y,1/2+z
+1/2+x,1/2-y,z
+-z,x,-y
+-z,1/2+x,1/2-y
+1/2-z,x,1/2-y
+1/2-z,1/2+x,-y
+y,-z,x
+y,1/2-z,1/2+x
+1/2+y,-z,1/2+x
+1/2+y,1/2-z,x
+-x,y,-z
+-x,1/2+y,1/2-z
+1/2-x,y,1/2-z
+1/2-x,1/2+y,-z
+x,-z,-y
+x,1/2-z,1/2-y
+1/2+x,-z,1/2-y
+1/2+x,1/2-z,-y
+-z,y,x
+-z,1/2+y,1/2+x
+1/2-z,y,1/2+x
+1/2-z,1/2+y,x
+y,-x,-z
+y,1/2-x,1/2-z
+1/2+y,-x,1/2-z
+1/2+y,1/2-x,-z
+-x,z,y
+-x,1/2+z,1/2+y
+1/2-x,z,1/2+y
+1/2-x,1/2+z,y
+z,-y,-x
+z,1/2-y,1/2-x
+1/2+z,-y,1/2-x
+1/2+z,1/2-y,-x
+-y,x,z
+-y,1/2+x,1/2+z
+1/2-y,x,1/2+z
+1/2-y,1/2+x,z
+x,z,y
+x,1/2+z,1/2+y
+1/2+x,z,1/2+y
+1/2+x,1/2+z,y
+-z,-y,-x
+-z,1/2-y,1/2-x
+1/2-z,-y,1/2-x
+1/2-z,1/2-y,-x
+y,x,z
+y,1/2+x,1/2+z
+1/2+y,x,1/2+z
+1/2+y,1/2+x,z
+-x,-z,-y
+-x,1/2-z,1/2-y
+1/2-x,-z,1/2-y
+1/2-x,1/2-z,-y
+z,y,x
+z,1/2+y,1/2+x
+1/2+z,y,1/2+x
+1/2+z,1/2+y,x
+-y,-x,-z
+-y,1/2-x,1/2-z
+1/2-y,-x,1/2-z
+1/2-y,1/2-x,-z
+z,x,-y
+z,1/2+x,1/2-y
+1/2+z,x,1/2-y
+1/2+z,1/2+x,-y
+-y,-z,x
+-y,1/2-z,1/2+x
+1/2-y,-z,1/2+x
+1/2-y,1/2-z,x
+x,y,-z
+x,1/2+y,1/2-z
+1/2+x,y,1/2-z
+1/2+x,1/2+y,-z
+-z,-x,y
+-z,1/2-x,1/2+y
+1/2-z,-x,1/2+y
+1/2-z,1/2-x,y
+y,z,-x
+y,1/2+z,1/2-x
+1/2+y,z,1/2-x
+1/2+y,1/2+z,-x
+-x,-y,z
+-x,1/2-y,1/2+z
+1/2-x,-y,1/2+z
+1/2-x,1/2-y,z
+-z,x,y
+-z,1/2+x,1/2+y
+1/2-z,x,1/2+y
+1/2-z,1/2+x,y
+y,-z,-x
+y,1/2-z,1/2-x
+1/2+y,-z,1/2-x
+1/2+y,1/2-z,-x
+-x,y,z
+-x,1/2+y,1/2+z
+1/2-x,y,1/2+z
+1/2-x,1/2+y,z
+z,-x,-y
+z,1/2-x,1/2-y
+1/2+z,-x,1/2-y
+1/2+z,1/2-x,-y
+-y,z,x
+-y,1/2+z,1/2+x
+1/2-y,z,1/2+x
+1/2-y,1/2+z,x
+x,-y,-z
+x,1/2-y,1/2-z
+1/2+x,-y,1/2-z
+1/2+x,1/2-y,-z
+-x,z,-y
+-x,1/2+z,1/2-y
+1/2-x,z,1/2-y
+1/2-x,1/2+z,-y
+z,-y,x
+z,1/2-y,1/2+x
+1/2+z,-y,1/2+x
+1/2+z,1/2-y,x
+-y,x,-z
+-y,1/2+x,1/2-z
+1/2-y,x,1/2-z
+1/2-y,1/2+x,-z
+x,-z,y
+x,1/2-z,1/2+y
+1/2+x,-z,1/2+y
+1/2+x,1/2-z,y
+-z,y,-x
+-z,1/2+y,1/2-x
+1/2-z,y,1/2-x
+1/2-z,1/2+y,-x
+y,-x,z
+y,1/2-x,1/2+z
+1/2+y,-x,1/2+z
+1/2+y,1/2-x,z
+-x,-z,y
+-x,1/2-z,1/2+y
+1/2-x,-z,1/2+y
+1/2-x,1/2-z,y
+z,y,-x
+z,1/2+y,1/2-x
+1/2+z,y,1/2-x
+1/2+z,1/2+y,-x
+-y,-x,z
+-y,1/2-x,1/2+z
+1/2-y,-x,1/2+z
+1/2-y,1/2-x,z
+x,z,-y
+x,1/2+z,1/2-y
+1/2+x,z,1/2-y
+1/2+x,1/2+z,-y
+-z,-y,x
+-z,1/2-y,1/2+x
+1/2-z,-y,1/2+x
+1/2-z,1/2-y,x
+y,x,-z
+y,1/2+x,1/2-z
+1/2+y,x,1/2-z
+1/2+y,1/2+x,-z
+-z,-x,-y
+-z,1/2-x,1/2-y
+1/2-z,-x,1/2-y
+1/2-z,1/2-x,-y
+y,z,x
+y,1/2+z,1/2+x
+1/2+y,z,1/2+x
+1/2+y,1/2+z,x
+-x,-y,-z
+-x,1/2-y,1/2-z
+1/2-x,-y,1/2-z
+1/2-x,1/2-y,-z
+z,x,y
+z,1/2+x,1/2+y
+1/2+z,x,1/2+y
+1/2+z,1/2+x,y
+-y,-z,-x
+-y,1/2-z,1/2-x
+1/2-y,-z,1/2-x
+1/2-y,1/2-z,-x
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cr 0.00000 0.00000 0.00000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22412
+2 AMCSD 0011144
+",
+Ti,9008467,HCP,44.0,103,110,"#------------------------------------------------------------------------------
+#$Date: 2024-05-06 10:39:41 +0300 (Mon, 06 May 2024) $
+#$Revision: 291735 $
+#$URL: svn://crystallography.net/cod/cif/9/00/85/9008517.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9008517
+loop_
+_publ_author_name
+'Wyckoff, R. W. G.'
+_publ_section_title
+;
+ Second edition. Interscience Publishers, New York, New York
+ Hexagonal closest packed, hcp, structure
+;
+_journal_name_full               'Crystal Structures'
+_journal_page_first              7
+_journal_page_last               83
+_journal_volume                  1
+_journal_year                    1963
+_chemical_formula_sum            Ti
+_chemical_name_common            Titanium
+_chemical_name_mineral           Titanium
+_space_group_IT_number           194
+_symmetry_space_group_name_Hall  '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_length_a                   2.950
+_cell_length_b                   2.950
+_cell_length_c                   4.686
+_cell_formula_units_Z            2
+_cell_volume                     35.316
+_database_code_amcsd             0011195
+_exptl_crystal_density_diffrn    4.503
+_cod_database_code               9008517
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+-x,-x+y,1/2+z
+x,x-y,1/2-z
+-x+y,-x,1/2-z
+x-y,x,1/2+z
+-y,-x,z
+y,x,-z
+y,-x+y,-z
+-y,x-y,z
+x-y,-y,1/2+z
+-x+y,y,1/2-z
+x,y,1/2-z
+-x,-y,1/2+z
+x,x-y,z
+-x,-x+y,-z
+x-y,x,-z
+-x+y,-x,z
+y,x,1/2+z
+-y,-x,1/2-z
+-y,x-y,1/2-z
+y,-x+y,1/2+z
+-x+y,y,z
+x-y,-y,-z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti 0.33333 0.66667 0.25000
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 22402
+2 MPOD 1000061
+3 MPOD 1000211
+4 AMCSD 0011195
+",
