@@ -1,6 +1,6 @@
 # Structure-Informed Material ML
 
-This repository implements an undergraduate-level **structure-informed machine learning framework** for predicting material properties directly from crystal structure data. The workflow combines explicit geometric feature construction with probabilistic regression using **Gaussian Process Regression (GPR)**.
+This repository implements a **structure-informed machine learning framework** for predicting material properties directly from crystal structure data. The workflow combines explicit geometric feature construction with probabilistic regression using **Gaussian Process Regression (GPR)**.
 
 The project is designed as an **educational prototype**, emphasizing transparency of the mathematical and algorithmic steps rather than research-grade predictive accuracy.
 
