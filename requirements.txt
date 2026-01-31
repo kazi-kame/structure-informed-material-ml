@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+pymatgen
+matminer

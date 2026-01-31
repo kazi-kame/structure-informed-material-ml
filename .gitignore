@@ -1,6 +1,14 @@
-__pycache__/ 
-*.pyc 
-.venv/ 
-venv/ 
-.idea/ 
-.vscode/ 
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
